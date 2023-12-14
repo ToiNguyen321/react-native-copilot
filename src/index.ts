@@ -1,3 +1,4 @@
+import React from "react";
 import { StepNumber } from "./components/default-ui/StepNumber";
 import { Tooltip } from "./components/default-ui/Tooltip";
 export { walkthroughable } from "./hocs/walkthroughable";
